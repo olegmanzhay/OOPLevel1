@@ -1,0 +1,10 @@
+H:\GeekBrains\OOPLevel1\Lesson3\App1\bin\Debug\App1.exe.config
+H:\GeekBrains\OOPLevel1\Lesson3\App1\bin\Debug\App1.exe
+H:\GeekBrains\OOPLevel1\Lesson3\App1\bin\Debug\App1.pdb
+H:\GeekBrains\OOPLevel1\Lesson3\App1\obj\Debug\App1.csprojAssemblyReference.cache
+H:\GeekBrains\OOPLevel1\Lesson3\App1\obj\Debug\App1.csproj.CoreCompileInputs.cache
+H:\GeekBrains\OOPLevel1\Lesson3\App1\obj\Debug\App1.exe
+H:\GeekBrains\OOPLevel1\Lesson3\App1\obj\Debug\App1.pdb
+H:\GeekBrains\OOPLevel1\Lesson3\App1\bin\Debug\ClassLibrary1.dll
+H:\GeekBrains\OOPLevel1\Lesson3\App1\bin\Debug\ClassLibrary1.pdb
+H:\GeekBrains\OOPLevel1\Lesson3\App1\obj\Debug\App1.csproj.CopyComplete

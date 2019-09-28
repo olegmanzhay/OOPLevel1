@@ -1,0 +1,6 @@
+H:\GeekBrains\OOPLevel1\Lesson3\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+H:\GeekBrains\OOPLevel1\Lesson3\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+H:\GeekBrains\OOPLevel1\Lesson3\ClassLibrary1\obj\Debug\ClassLibrary1.csprojAssemblyReference.cache
+H:\GeekBrains\OOPLevel1\Lesson3\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+H:\GeekBrains\OOPLevel1\Lesson3\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+H:\GeekBrains\OOPLevel1\Lesson3\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
