@@ -1,0 +1,7 @@
+H:\GeekBrains\OOPLevel1\Lesson3\App2\bin\Debug\App2.exe.config
+H:\GeekBrains\OOPLevel1\Lesson3\App2\bin\Debug\App2.exe
+H:\GeekBrains\OOPLevel1\Lesson3\App2\bin\Debug\App2.pdb
+H:\GeekBrains\OOPLevel1\Lesson3\App2\obj\Debug\App2.csprojAssemblyReference.cache
+H:\GeekBrains\OOPLevel1\Lesson3\App2\obj\Debug\App2.csproj.CoreCompileInputs.cache
+H:\GeekBrains\OOPLevel1\Lesson3\App2\obj\Debug\App2.exe
+H:\GeekBrains\OOPLevel1\Lesson3\App2\obj\Debug\App2.pdb
